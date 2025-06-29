@@ -1,6 +1,6 @@
 # 💼 Aplikasi Kasir Mainan Tradisional - VB
 
-**Aplikasi Kasir Mainan Tradisional** adalah sebuah program desktop berbasis **Visual Basic** yang saya, **Vania Rusprameswari (NIM: 23050974073)**, kembangkan sebagai bagian dari pembelajaran dan praktik dalam bidang Rekayasa Perangkat Lunak.
+**Aplikasi Kasir Mainan Tradisional** adalah sebuah program desktop berbasis **Visual Basic** yang saya, **Vania Rusprameswari (23050974073)**, kembangkan sebagai bagian dari Projek Mata Kuliah Pemrograman Visual.
 
 Aplikasi ini dirancang untuk membantu proses transaksi penjualan mainan tradisional secara sederhana namun fungsional, mulai dari input barang, perhitungan total belanja, hingga cetak struk.
 
@@ -10,7 +10,7 @@ Aplikasi ini dirancang untuk membantu proses transaksi penjualan mainan tradisio
 
 - Menerapkan pemrograman visual berbasis **Visual Basic** dalam pengembangan aplikasi kasir.
 - Memberikan solusi sederhana untuk penjualan mainan tradisional di toko skala kecil.
-- Menyelesaikan tugas/proyek akademik sebagai bagian dari pengembangan kompetensi RPL.
+- Menyelesaikan tugas/proyek akademik Pemrograman Visual.
 
 ---
 
@@ -18,7 +18,7 @@ Aplikasi ini dirancang untuk membantu proses transaksi penjualan mainan tradisio
 
 - **Bahasa Pemrograman:** Visual Basic .NET (VB.NET)
 - **Platform:** Desktop (Windows Forms)
-- **Database:** (Jika ada, misalnya Microsoft Access atau SQL Server)
+- **Database:** XAMPP
 - **IDE:** Visual Studio
 
 ---
@@ -28,7 +28,7 @@ Aplikasi ini dirancang untuk membantu proses transaksi penjualan mainan tradisio
 - Input data barang (nama, harga, jumlah)
 - Perhitungan total belanja otomatis
 - Cetak struk transaksi
-- Form login (jika tersedia)
+- Form login
 - Desain antarmuka user-friendly
 
 ---
