@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLaporan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMenuUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPelanggan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormProduk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTransJual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
